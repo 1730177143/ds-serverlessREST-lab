@@ -9,3 +9,4 @@ cdk.out
 # Misc
 .DS_Store
 .idea
+*.schema.json
